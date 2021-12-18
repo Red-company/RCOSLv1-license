@@ -6,11 +6,11 @@
 
 ## What is it?
 
-RCOSL is an open source license made by Red to prevent usage of corporate logos(files, etc.). This license is rather permissive.
+_RCOSL_ is an open source license made by _Red_ to prevent usage of corporate logos(files, etc.). This license is rather permissive.
 
 ## License's text
 
-You can find it in 'LICENSE' file.
+You can find it in _'LICENSE'_ file.
 
 #
 All material in this repository is in the public domain.
